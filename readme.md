@@ -6,7 +6,7 @@
 - Apach 2.4
 - PHP 7.2
 - MySQL 5.7
-- Laravle: 5.7
+- Laravel: 5.7
 
 ## Installation
 
